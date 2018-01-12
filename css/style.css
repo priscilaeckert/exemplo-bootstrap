@@ -1,0 +1,19 @@
+header{
+	padding-top: 15%;
+	padding-bottom: 5%;
+	background-color: #d4d4d4;
+}
+
+
+.coluna{
+
+	height: 30px;
+	/*background-color: red;*/
+	text-align: center;
+}
+
+
+.espacamento{
+	margin-bottom: 10%;
+
+}
